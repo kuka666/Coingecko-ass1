@@ -26,10 +26,11 @@ cg = CoinGeckoAPI()
 ```
 
 ### Examples
-
+```python
 Number to output top: 5
 btc price: 47654 $
 eth price: 3574.42 $
 ada price: 2.43 $
 usdt price: 0.999801 $
 bnb price: 424.69 $
+```
