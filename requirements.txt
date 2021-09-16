@@ -1,2 +1,1 @@
-- Pulls the data from coingecko.com
-- filters out top N cryptocurrencies by market capitalization 
+pycoingecko~=2.2.0
