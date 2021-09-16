@@ -3,7 +3,7 @@ cg = CoinGeckoAPI()
 
 
 def print_coin(Btc):
-    print(Btc['current_price'], "price:", Btc['current_price'], "$")
+    print(Btc['symbol'], "price:", Btc['current_price'], "$")
 
 
 def cap_sort(e):
