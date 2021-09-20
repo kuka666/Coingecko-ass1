@@ -13,9 +13,8 @@ pip install pycoingecko
 or from source
 
 ```bash
-git clone https://github.com/man-c/pycoingecko.git
-cd pycoingecko
-python3 setup.py install
+git clone https://github.com/kuka666/coingecko-ass1.git
+cd coingecko-ass1
 ```
 
 ### Usage
