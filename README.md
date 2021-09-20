@@ -21,8 +21,8 @@ python3 setup.py install
 ### Usage
 
 ```python
-cd api/src/
-python main.py
+cd coingecko-ass1\src
+python test.py
 ```
 
 ### Examples
