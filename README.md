@@ -27,6 +27,8 @@ cg = CoinGeckoAPI()
 
 ### Examples
 ```python
+cg.get_coins_markets("usd")
+
 Number to output top: 5
 btc price: 47654 $
 eth price: 3574.42 $
