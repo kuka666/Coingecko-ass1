@@ -14,5 +14,5 @@ for i in range(1):
     b = int(input("Number to output top: "))
     list = cg.get_coins_markets("usd")[:b]
     list.sort(key=crypto_sort)
-    for coin in list:
-        out_crypto(coin)
+    for crypto in list:
+        out_crypto(crypto)
