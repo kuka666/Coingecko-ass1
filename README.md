@@ -1,4 +1,4 @@
-# CoinGecko API wrapper
+# coingecko-ass1
 
 Python3 wrapper around the [CoinGecko](https://www.coingecko.com/) API (V3)
 
