@@ -4,13 +4,8 @@ Python3 wrapper around the [CoinGecko](https://www.coingecko.com/) API (V3)
 
 ### Installation
 
-PyPI
 
-```bash
-pip install pycoingecko
-```
-
-or from source
+From source
 
 ```bash
 git clone https://github.com/kuka666/coingecko-ass1.git
